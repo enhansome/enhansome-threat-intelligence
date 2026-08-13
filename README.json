@@ -1,0 +1,42 @@
+{
+  "items": [
+    {
+      "description": "Most of the resources listed below provide lists and/or APIs to obtain (hopefully) up-to-date information with regards to threats. Some consider these sources as threat intelligence, opinions differ however. A certain amount of (domain- or business-specific) analysis is necessary to create true threat intelligence.",
+      "items": [],
+      "title": "Sources"
+    },
+    {
+      "description": "Standardized formats for sharing Threat Intelligence (mostly IOCs).",
+      "items": [],
+      "title": "Formats"
+    },
+    {
+      "description": "Frameworks, platforms and services for collecting, analyzing, creating and sharing Threat Intelligence.",
+      "items": [],
+      "title": "Frameworks and Platforms"
+    },
+    {
+      "description": "All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly IOC based.",
+      "items": [],
+      "title": "Tools"
+    },
+    {
+      "description": "All kinds of reading material about Threat Intelligence. Includes (scientific) research and whitepapers.",
+      "items": [],
+      "title": "Research, Standards & Books"
+    },
+    {
+      "description": "Licensed under Apache License 2.0.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:09:29.016Z",
+    "original_repository": "hslatman/awesome-threat-intelligence",
+    "original_repository_sha": "e506c8415406d6d6ad16040c19c23ddb9ed654ac",
+    "enhanced_repository": "enhansome/enhansome-threat-intelligence",
+    "enhanced_repository_description": null,
+    "title": "awesome-threat-intelligence with stars"
+  }
+}
