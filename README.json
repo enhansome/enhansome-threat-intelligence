@@ -1,9 +1,16 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-08-27T05:33:35.980Z",
-    "original_repository": "hslatman/awesome-threat-intelligence",
-    "original_repository_id": 48368290,
+    "last_updated": "2026-08-27T12:06:05.270Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 48368290,
+      "language": null,
+      "last_commit": "2026-05-31T10:54:05Z",
+      "owner": "hslatman",
+      "repo": "awesome-threat-intelligence",
+      "stars": 10580
+    },
     "original_repository_sha": "e506c8415406d6d6ad16040c19c23ddb9ed654ac",
     "enhanced_repository": "enhansome/enhansome-threat-intelligence",
     "enhanced_repository_description": null,
