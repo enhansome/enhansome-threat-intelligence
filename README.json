@@ -1,15 +1,25 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-08-28T07:29:20.802Z",
+    "last_updated": "2026-08-29T04:15:34.742Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of Awesome Threat Intelligence resources",
+      "homepage": null,
       "id": 48368290,
       "language": null,
+      "license": "Apache-2.0",
       "last_commit": "2026-05-31T10:54:05Z",
+      "open_issues": 117,
       "owner": "hslatman",
       "repo": "awesome-threat-intelligence",
-      "stars": 10580
+      "stars": 10581,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "hacktoberfest",
+        "security"
+      ]
     },
     "original_repository_sha": "e506c8415406d6d6ad16040c19c23ddb9ed654ac",
     "enhanced_repository": "enhansome/enhansome-threat-intelligence",
