@@ -4,7 +4,7 @@ A curated list of awesome Threat Intelligence resources
 
 A concise definition of Threat Intelligence: *evidence-based knowledge, including context, mechanisms, indicators, implications and actionable advice, about an existing or emerging menace or hazard to assets that can be used to inform decisions regarding the subject’s response to that menace or hazard*.
 
-Feel free to [contribute](CONTRIBUTING.md).
+Feel free to [contribute](https://github.com/hslatman/awesome-threat-intelligence/blob/HEAD/CONTRIBUTING.md).
 
 * [Sources](#sources)
 * [Formats](#formats)
@@ -2007,7 +2007,7 @@ All kinds of reading material about Threat Intelligence. Includes (scientific) r
 
 ## License
 
-Licensed under [Apache License 2.0](LICENSE).
+Licensed under [Apache License 2.0](https://github.com/hslatman/awesome-threat-intelligence/blob/HEAD/LICENSE).
 
 ***
 
