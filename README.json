@@ -1,7 +1,7 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-10-08T03:24:03.473Z",
+    "last_updated": "2026-10-09T03:29:43.303Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Awesome Threat Intelligence resources",
@@ -13,7 +13,7 @@
       "open_issues": 142,
       "owner": "hslatman",
       "repo": "awesome-threat-intelligence",
-      "stars": 10711,
+      "stars": 10721,
       "topics": [
         "awesome",
         "awesome-list",
