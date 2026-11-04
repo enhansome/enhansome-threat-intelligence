@@ -2019,4 +2019,4 @@ Licensed under [Apache License 2.0](https://github.com/hslatman/awesome-threat-i
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
